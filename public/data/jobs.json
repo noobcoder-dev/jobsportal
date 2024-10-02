@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "description": "Develop software solutions.",
+      "skills": ["JavaScript", "React", "Node.js"]
+    },
+    {
+      "id": 2,
+      "title": "Data Scientist",
+      "description": "Analyze complex data.",
+      "skills": ["Python", "Machine Learning", "SQL"]
+    },
+    {
+      "id": 3,
+      "title": "UX Designer",
+      "description": "Create user-friendly designs.",
+      "skills": ["Figma", "Sketch", "User Research"]
+    },
+    {
+      "id": 4,
+      "title": "DevOps Engineer",
+      "description": "Automate deployment and monitoring.",
+      "skills": ["AWS", "Docker", "CI/CD"]
+    },
+    {
+      "id": 5,
+      "title": "Mobile Developer",
+      "description": "Develop mobile applications.",
+      "skills": ["Flutter", "React Native", "iOS"]
+    },
+    {
+      "id": 6,
+      "title": "Product Manager",
+      "description": "Manage product lifecycle.",
+      "skills": ["Agile", "Scrum", "Leadership"]
+    },
+    {
+      "id": 7,
+      "title": "QA Engineer",
+      "description": "Test and ensure software quality.",
+      "skills": ["Selenium", "JIRA", "Manual Testing"]
+    },
+    {
+      "id": 8,
+      "title": "Backend Developer",
+      "description": "Build server-side logic.",
+      "skills": ["Node.js", "MongoDB", "GraphQL"]
+    },
+    {
+      "id": 9,
+      "title": "Data Engineer",
+      "description": "Build and maintain data pipelines.",
+      "skills": ["Python", "ETL", "SQL"]
+    },
+    {
+      "id": 10,
+      "title": "Full Stack Developer",
+      "description": "Work on both front-end and back-end.",
+      "skills": ["JavaScript", "React", "Node.js"]
+    },
+    {
+      "id": 11,
+      "title": "Cloud Architect",
+      "description": "Design cloud infrastructure.",
+      "skills": ["AWS", "Azure", "Cloud Security"]
+    },
+    {
+      "id": 12,
+      "title": "AI Researcher",
+      "description": "Research and develop AI solutions.",
+      "skills": ["Python", "TensorFlow", "AI"]
+    },
+    {
+      "id": 13,
+      "title": "Security Engineer",
+      "description": "Ensure application security.",
+      "skills": ["Cybersecurity", "Pen Testing", "Firewalls"]
+    },
+    {
+      "id": 14,
+      "title": "Business Analyst",
+      "description": "Analyze business requirements.",
+      "skills": ["Data Analysis", "SQL", "Tableau"]
+    },
+    {
+      "id": 15,
+      "title": "Marketing Specialist",
+      "description": "Develop marketing strategies.",
+      "skills": ["SEO", "Social Media", "Content Marketing"]
+    },
+    {
+      "id": 16,
+      "title": "Sales Manager",
+      "description": "Lead the sales team.",
+      "skills": ["Salesforce", "Negotiation", "Team Leadership"]
+    },
+    {
+      "id": 17,
+      "title": "Graphic Designer",
+      "description": "Create visual content.",
+      "skills": ["Photoshop", "Illustrator", "InDesign"]
+    },
+    {
+      "id": 18,
+      "title": "Technical Support Engineer",
+      "description": "Provide technical assistance.",
+      "skills": ["Troubleshooting", "Networking", "Customer Service"]
+    },
+    {
+      "id": 19,
+      "title": "Database Administrator",
+      "description": "Manage and maintain databases.",
+      "skills": ["SQL", "Oracle", "DBA"]
+    },
+    {
+      "id": 20,
+      "title": "Content Writer",
+      "description": "Write engaging content.",
+      "skills": ["SEO", "Copywriting", "Creative Writing"]
+    }
+  ]
+  
